@@ -46,7 +46,7 @@
   <img alt="javascript" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/javascript.png"  /> 
 </p>
 
-### Json
+### JSON
 
 <p align="center">
   <img alt="json" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/json.png"  /> 
@@ -70,7 +70,7 @@
   <img alt="css" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/markdown.png"  />
 </p>
 
-### Yaml
+### YAML
 
 <p align="center">
   <img alt="yaml" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/yaml.png"  /> 
