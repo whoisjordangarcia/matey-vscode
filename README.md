@@ -24,38 +24,98 @@
   
 </p>
 
-![demo](https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme.png)
+![demo](https://raw.githubusercontent.com/arickho/matey-vscode/master/images/Matey%20Theme.png)
 
 ## Screenshots
 
 ## Typescript
 
 <p align="center">
-  <img alt="typescript" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/typescript.png" width="600"/>
+  <img alt="typescript" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/typescript.png" width="400"/>
 </p>
 
 ## React
 
 <p align="center">
-  <img alt="react" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/react.png" width="600"/>
+  <img alt="react" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/react.png" width="400"/>
+</p>
+
+## Javascript
+
+<p align="center">
+  <img alt="javascript" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/javascript.png" width="400"/>xs
+</p>
+
+## Json
+
+<p align="center">
+  <img alt="json" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/json.png" width="400"/>xs
 </p>
 
 ## CSS
 
 <p align="center">
-  <img alt="css" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/css.png" width="400"/>
+  <img alt="css" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/css.png" width="400"/>
+</p>
+
+## HTML
+
+<p align="center">
+  <img alt="html" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/html.png" width="400"/>xs
 </p>
 
 ## Markdown
 
 <p align="center">
-  <img alt="css" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/markdown.png" width="400"/>
+  <img alt="css" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/markdown.png" width="400"/>
 </p>
 
-## Workbench
+## Yaml
 
 <p align="center">
-  <img alt="workbench" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/workbench.png" width="400"/>xs
+  <img alt="yaml" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/yaml.png" width="400"/>xs
+</p>
+
+## Rust
+
+<p align="center">
+  <img alt="yaml" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/rust.png" width="400"/>xs
+</p>
+
+## Python
+
+<p align="center">
+  <img alt="python" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/python.png" width="400"/>xs
+</p>
+
+## Java
+
+<p align="center">
+  <img alt="java" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/java.png" width="400"/>xs
+</p>
+
+## Go
+
+<p align="center">
+  <img alt="go" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/go-lang.png" width="400"/>xs
+</p>
+
+## C-sharp
+
+<p align="center">
+  <img alt="c#" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/c-sharp.png" width="400"/>xs
+</p>
+
+## C++
+
+<p align="center">
+  <img alt="c++" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/c-plus-plus.png" width="400"/>xs
+</p>
+
+## PHP
+
+<p align="center">
+  <img alt="php" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/php.png" width="400"/>xs
 </p>
 
 ## Installation via VS Code
