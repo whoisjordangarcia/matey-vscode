@@ -45,6 +45,10 @@
 4. Click **Reload** to reload the editors
 5. Code > Preferences > Color Theme > **Matey**
 
+## Changelog
+
+See changelog [here](https://github.com/arickho/matey-vscode/blob/master/CHANGELOG.md)
+
 ## Publishing
 
 ```bash
