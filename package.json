@@ -41,8 +41,8 @@
     ]
   },
   "galleryBanner": {
-    "color": "#1d2433",
-    "theme": "dark"
+    "color": "#FFFFFF",
+    "theme": "light"
   },
   "devDependencies": {
     "auto-changelog": "*",
