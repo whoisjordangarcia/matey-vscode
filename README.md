@@ -16,11 +16,12 @@
 ## Publising
 
 ```bash
-vsce publish patch/minor/major
+vsce publish 1.0.0 # (major.minor.patch)
 ```
 
 ### For more information
-* [Visual Studio Code's Markdown Support](https://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+- [Visual Studio Code's Markdown Support](https://code.visualstudio.com/docs/languages/markdown)
+- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
