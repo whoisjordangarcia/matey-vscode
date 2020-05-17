@@ -2,7 +2,7 @@
   "name": "matey-vscode",
   "displayName": "Matey Theme",
   "description": "A mate for your code",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "publisher": "arickho",
   "icon": "demo/Matey Logo.png",
   "author": {
