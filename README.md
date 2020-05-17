@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="logo" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Mateyy%20Logo.png" width="150"/>
+</p>
+
 <h1 align="center">
     Matey for VS Code
 </h1>
