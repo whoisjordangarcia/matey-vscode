@@ -21,11 +21,11 @@
 
 ## Screenshots
 
-![react](https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme_React.png)
+![react](https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme_React.png | width=400)
 
-![css](https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme_CSS.png)
+![css](https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme_CSS.png | width=400)
 
-![workbench](https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme_Workbench.png)
+![workbench](https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme_Workbench.png | width=400)
 
 ## Installation via VS Code
 
