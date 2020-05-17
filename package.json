@@ -24,12 +24,11 @@
     "Themes"
   ],
   "keywords": [
-    "Matey",
-    "Dark Theme",
-    "IDE",
-    "VSCode",
+    "matey",
+    "dark theme",
     "color-theme",
-    "Themes"
+    "themes",
+    "modern"
   ],
   "contributes": {
     "themes": [
