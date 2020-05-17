@@ -1,5 +1,7 @@
 <p align="center">
-  <img alt="Matey Logo" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Logo.png" width="150"/>
+  <a href="https://marketplace.visualstudio.com/items?itemName=arickho.matey-vscode">
+    <img alt="Matey Logo" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Logo.png" width="150"/>
+  </a>
 </p>
 
 <h1 align="center">
@@ -10,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href=https://marketplace.visualstudio.com/items?itemName=arickho.matey-vscode">
+  <a href="https://marketplace.visualstudio.com/items?itemName=arickho.matey-vscode">
     <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/arickho.matey-vscode.svg" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=arickho.matey-vscode">
