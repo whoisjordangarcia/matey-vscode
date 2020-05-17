@@ -1,12 +1,12 @@
 <p align="center">
-  <img alt="logo" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Logo.jpg" width="150"/>
+  <img alt="Matey Logo" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Logo.jpg" width="150"/>
 </p>
 
 <h1 align="center">
     Matey for VS Code
 </h1>
 <p align="center">
-  A beautiful theme for professional developers.
+  beautiful theme for professional developers.
 </p>
 
 <p align="center">
