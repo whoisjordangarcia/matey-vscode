@@ -1,9 +1,10 @@
 {
   "name": "matey-vscode",
   "displayName": "Matey Theme",
-  "description": "A beautiful theme for professional developers.",
+  "description": "A beautiful theme for professionals developers.",
   "version": "1.0.5",
-  "publisher": "arickho",
+  "publisher": "Jordan Garcia",
+  "icon": "demo/Matey Logo.jpg",
   "author": {
     "name": "Jordan Garcia",
     "email": "arickho@gmail.com"
