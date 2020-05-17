@@ -28,91 +28,91 @@
 
 ## Screenshots
 
-## Typescript
+### Typescript
 
 <p align="center">
   <img alt="typescript" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/typescript.png" x/>
 </p>
 
-## React
+### React
 
 <p align="center">
   <img alt="react" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/react.png"  />
 </p>
 
-## Javascript
+### Javascript
 
 <p align="center">
   <img alt="javascript" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/javascript.png"  /> 
 </p>
 
-## Json
+### Json
 
 <p align="center">
   <img alt="json" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/json.png"  /> 
 </p>
 
-## CSS
+### CSS
 
 <p align="center">
   <img alt="css" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/css.png"  />
 </p>
 
-## HTML
+### HTML
 
 <p align="center">
   <img alt="html" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/html.png"  /> 
 </p>
 
-## Markdown
+### Markdown
 
 <p align="center">
   <img alt="css" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/markdown.png"  />
 </p>
 
-## Yaml
+### Yaml
 
 <p align="center">
   <img alt="yaml" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/yaml.png"  /> 
 </p>
 
-## Rust
+### Rust
 
 <p align="center">
   <img alt="yaml" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/rust.png"  /> 
 </p>
 
-## Python
+### Python
 
 <p align="center">
   <img alt="python" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/python.png"  /> 
 </p>
 
-## Java
+### Java
 
 <p align="center">
   <img alt="java" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/java.png"  /> 
 </p>
 
-## Go
+### Go
 
 <p align="center">
   <img alt="go" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/go-lang.png"  /> 
 </p>
 
-## C-sharp
+### C-sharp
 
 <p align="center">
   <img alt="c#" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/c-sharp.png"  /> 
 </p>
 
-## C++
+### C++
 
 <p align="center">
   <img alt="c++" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/c-plus-plus.png"  /> 
 </p>
 
-## PHP
+### PHP
 
 <p align="center">
   <img alt="php" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/syntax/php.png"  /> 
