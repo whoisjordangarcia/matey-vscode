@@ -10,22 +10,32 @@
     <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/arickho.matey-vscode.svg" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=arickho.matey-vscode">
-    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/arickho.matey-vscode.svg" />
+    <img alt="Rating" src="https://vsmarketplacebadge.apphb.com/rating/arickho.matey-vscode.svg" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=arickho.matey-vscode">
     <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/arickho.matey-vscode.svg" />
   </a>
+  
 </p>
 
 ![demo](https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme.png)
 
 ## Screenshots
 
-![react](https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme_React.png | width=400)
+<p align="center">
+  <img alt="react" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme_React.png" width="600"/>
+  <p align="center">Code</p>
+</p>
 
-![css](https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme_CSS.png | width=400)
+<p align="center">
+  <img alt="css" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme_CSS.png" width="400"/>
+  <p align="center">CSS</p>
+</p>
 
-![workbench](https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme_Workbench.png | width=400)
+<p align="center">
+  <img alt="css" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme_Workbench.png" width="400"/>
+  <p align="center">Workbench</p>
+</p>
 
 ## Installation via VS Code
 
