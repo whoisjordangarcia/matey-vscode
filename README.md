@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Matey Logo" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Logo.jpg" width="150"/>
+  <img alt="Matey Logo" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Logo.png" width="150"/>
 </p>
 
 <h1 align="center">
