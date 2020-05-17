@@ -9,3 +9,6 @@ class Wow extends Component {
     );
   }
 }
+
+
+default Wow

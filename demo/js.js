@@ -1,4 +1,6 @@
-const hello = "I am never used";
+let hello = "hola!";
+
+const never_used = "I am never used";
 
 errorHere.log(`I'm never imported`);
 
