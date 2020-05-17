@@ -15,7 +15,7 @@
 4. Click **Reload** to reload the editors
 5. Code > Preferences > Color Theme > **Matey**
 
-## Publising
+## Publishing
 
 ```bash
 vsce publish 1.0.0 # (major.minor.patch)
