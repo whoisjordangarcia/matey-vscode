@@ -8,7 +8,7 @@
     Matey for VS Code
 </h1>
 <p align="center">
-  beautiful theme for professional developers.
+  A friend for your code.
 </p>
 
 <p align="center">
