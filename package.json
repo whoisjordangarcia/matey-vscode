@@ -4,7 +4,7 @@
   "description": "A mate for your code",
   "version": "1.0.8",
   "publisher": "arickho",
-  "icon": "demo/Matey Logo.png",
+  "icon": "images/icon.png",
   "author": {
     "name": "Jordan Garcia",
     "email": "arickho@gmail.com"
