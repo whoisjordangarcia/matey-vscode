@@ -8,6 +8,15 @@
     "name": "Jordan Garcia",
     "email": "arickho@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arickho/matey-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/arickho/matey-vscode/issues",
+    "email": "arickho@gmail.com"
+  },
+  "homepage": "https://github.com/arickho/matey-vscode/blob/master/README.md",
   "engines": {
     "vscode": "^1.45.0"
   },
@@ -30,6 +39,10 @@
         "path": "./themes/matey-color-theme.json"
       }
     ]
+  },
+  "galleryBanner": {
+    "color": "#1d2433",
+    "theme": "dark"
   },
   "devDependencies": {
     "auto-changelog": "*",
