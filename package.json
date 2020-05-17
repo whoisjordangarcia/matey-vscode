@@ -1,0 +1,34 @@
+{
+  "name": "matey-vscode",
+  "displayName": "Matey Theme",
+  "description": "A beautiful theme for professional developers.",
+  "version": "1.0.0",
+  "publisher": "arickho",
+  "author": {
+    "name": "Jordan Garcia",
+    "email": "arickho@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Matey",
+    "Dark Theme",
+    "IDE",
+    "VSCode",
+    "color-theme",
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Matey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/matey-color-theme.json"
+      }
+    ]
+  }
+}
