@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=arickho.matey-vscode">
-    <img alt="Matey Logo" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Logo.png" width="150"/>
+    <img alt="Matey Logo" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/images/icon.png" width="150"/>
   </a>
 </p>
 
@@ -28,19 +28,34 @@
 
 ## Screenshots
 
-<p align="center">
-  <img alt="react" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme_React.png" width="600"/>
-  <p align="center">Code</p>
-</p>
+## Typescript
 
 <p align="center">
-  <img alt="css" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme_CSS.png" width="400"/>
-  <p align="center">CSS</p>
+  <img alt="typescript" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/typescript.png" width="600"/>
 </p>
 
+## React
+
 <p align="center">
-  <img alt="css" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/Matey%20Theme_Workbench.png" width="400"/>
-  <p align="center">Workbench</p>
+  <img alt="react" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/react.png" width="600"/>
+</p>
+
+## CSS
+
+<p align="center">
+  <img alt="css" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/css.png" width="400"/>
+</p>
+
+## Markdown
+
+<p align="center">
+  <img alt="css" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/markdown.png" width="400"/>
+</p>
+
+## Workbench
+
+<p align="center">
+  <img alt="workbench" src="https://raw.githubusercontent.com/arickho/matey-vscode/master/demo/workbench.png" width="400"/>xs
 </p>
 
 ## Installation via VS Code
