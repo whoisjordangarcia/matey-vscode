@@ -30,5 +30,12 @@
         "path": "./themes/matey-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "auto-changelog": "*",
+    "vsce": "^1.75.0"
+  },
+  "scripts": {
+    "version": "auto-changelog -p && git add CHANGELOG.md"
   }
 }
