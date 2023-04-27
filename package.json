@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "auto-changelog": "*",
-    "vsce": "^1.75.0"
+    "vsce": "^1.103.1"
   },
   "scripts": {
     "version": "auto-changelog -p && git add CHANGELOG.md"
